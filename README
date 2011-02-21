@@ -1,0 +1,9 @@
+The goal of this project is to create a one-size-fits-all set of commands to accomplish a secure, simple, and clean php login.
+
+It will be:
+	1) Secure - *Almost* impossible to crack/hack/break
+	2) Simple - The methods will be easy to use and understand
+	3) Clean - Proper code indentations/conventions will be used
+
+Note that security is ever-changing and what is secure one day may be insecure the next. I never assume that anything is 100% secure, and neither should anyone else. Hopefully, though, this project will 
+come somewhat close.
